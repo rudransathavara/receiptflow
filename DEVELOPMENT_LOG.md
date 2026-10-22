@@ -1,25 +1,19 @@
 # Development Log
 
-A daily record of development progress and improvements.
+A record of progress, improvements, and bug fixes for ReceiptFlow.
 
 ---
 
-## 21 October 2026 - UI & Readability Improvements
+## 21 October 2026 - UI Improvements
 
 **Status:** 🟢 Completed
 
-**Focus:** Improving the application's visual design and readability.
+**Focus:** Readability and visual design.
 
-### Today's Work
-- **Accent colours** - Improve contrast and readability of the new accent colour.
-- **Typography** - Refine text size, spacing, and font weights.
-- **Visual consistency** - Make the interface look cleaner and more professional.
-- **Accessibility** - Improve text contrast and overall usability.
-
-### Next Steps
-- [x] Finalise the accent colour.
-- [x] Improve typography and spacing.
-- [x] Test readability across the interface.
+**Completed**
+- Improved accent colours and contrast.
+- Refined typography and spacing.
+- Tested text readability.
 
 ---
 
@@ -27,20 +21,26 @@ A daily record of development progress and improvements.
 
 **Status:** 🟢 Completed
 
-**Focus:** Updating the Receipt VAT 2 logo.
+**Focus:** Branding and visual consistency.
 
-### Today's Work
-
-- [x] **Logo design:** Updated the application logo.
-- [x] **Brand identity:** Improved the overall look and feel of the application.
-- [x] **Visual consistency:** Worked towards a cleaner, more professional appearance.
-
-### Next Steps
-
-- [x] Review the accent colours and text readability.
-- [x] Continue refining the application's visual design.
+**Completed**
+- Updated the application logo.
+- Improved the overall appearance.
+- Reviewed colours and readability.
 
 ---
 
+## 22 October 2026 - Drag-and-Drop Fix
 
-*More updates coming as development progresses.*
+**Status:** 🟡 In Progress
+
+**Focus:** Fixing drag-and-drop functionality.
+
+**To Do**
+- Investigate the issue.
+- Implement a fix.
+- Test the functionality.
+
+---
+
+*Development is ongoing.*
