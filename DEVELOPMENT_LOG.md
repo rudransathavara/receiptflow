@@ -11,9 +11,9 @@ A record of progress, improvements, and bug fixes for ReceiptFlow.
 **Focus:** Readability and visual design.
 
 **Completed**
-- Improved accent colours and contrast.
-- Refined typography and spacing.
-- Tested text readability.
+- Improve accent colours and contrast.
+- Refine typography and spacing.
+- Test text readability.
 
 ---
 
@@ -24,9 +24,9 @@ A record of progress, improvements, and bug fixes for ReceiptFlow.
 **Focus:** Branding and visual consistency.
 
 **Completed**
-- Updated the application logo.
-- Improved the overall appearance.
-- Reviewed colours and readability.
+- Update the application logo.
+- Improve the overall appearance.
+- Reviewe colours and readability.
 
 ---
 
